@@ -14,8 +14,8 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 * Xlog
 
 ### contact me
-## Contact Telegram @Neo_Galaxy
-https://t.me/Neo_Galaxy
+## Contact Telegram @alethino
+https://t.me/alethino
 
 ## tiktok API
 
@@ -43,5 +43,5 @@ https://t.me/Neo_Galaxy
 22. create accounts
 
 ### contact me
-## Contact Telegram [@Neo_Galaxy] 
-https://t.me/Neo_Galaxy
+## Contact Telegram [@alethino] 
+https://t.me/alethino
